@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Banana Pie",
+      "body": "I just posted a recipe for making a banana pie",
+      "author": "mark",
+      "id": 30
+    },
+    {
+      "title": "AWS Cloud Computing",
+      "body": "My first cert will be cloud practitioner!",
+      "author": "mark",
+      "id": 31
+    }
+  ]
+}
